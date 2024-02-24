@@ -14,7 +14,7 @@ Git ofrece una forma de insertar código en un repositorio sin poseerlo, o inclu
 
 Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los logros más importantes que puedes tener en la academia porque:
 
-- Será la primera versión de tu portafolio de desarrollador.
+- Será la primera versión de tu portafolio como desarrollador.
 
 - Será la primera versión de tu currículum (como un desarrollador).
 
